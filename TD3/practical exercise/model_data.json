@@ -1,0 +1,22 @@
+{
+    "https://0e0b-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1276.2815625000003,
+        "weight": 0.3658587005906406,
+        "failures": 0
+    },
+    "https://0e66-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 619.02475,
+        "weight": 0.13414129940935934,
+        "failures": 2
+    },
+    "https://2d22-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 1276.2815625000003,
+        "weight": 0.3658587005906406,
+        "failures": 0
+    },
+    "https://db76-89-30-29-68.ngrok-free.app/predict": {
+        "balance": 619.02475,
+        "weight": 0.13414129940935934,
+        "failures": 2
+    }
+}
